@@ -1,5 +1,6 @@
 # Alien Road
-## Este repositorio contiene un juego inspirado en el juego de la ranita (Crossy Road). Este tiene de especial su ambientación relacionada con los alienígenas ya que los coches son extraterrestres y nuestro personaje es un vaca. El objetivo del juego es cruzar las carreteras sin colisionar con los aliens y recoger un plátano que está al final con el que ganaremos un punto. 
+## Este repositorio contiene un juego inspirado en el juego de la ranita (Crossy Road). 
+### Este tiene de especial su ambientación relacionada con los alienígenas ya que los coches son extraterrestres y nuestro personaje es un vaca. El objetivo del juego es cruzar las carreteras sin colisionar con los aliens y recoger un plátano que está al final con el que ganaremos un punto. 
 ### Juego
 ![image](https://github.com/user-attachments/assets/8893d4d0-00e0-46b0-b7f3-3a53b736da62)
 ![image](https://github.com/user-attachments/assets/fd221a74-ec31-438b-8163-e7c02bb8913f)
